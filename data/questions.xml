@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<questions>
+
+  <question seconds="15" points="3">
+    <text>Когда медведь впадает в спячку?</text>
+    <variants>
+      <variant right="true">Зимой</variant>
+      <variant>Весной</variant>
+      <variant>Летом</variant>
+      <variant>Осенью</variant>
+    </variants>
+  </question>
+
+  <question seconds="25" points="7">
+    <text>Волки — это единственные животные, способные на ...</text>
+    <variants>
+      <variant right="true">Месть</variant>
+      <variant>Любовь</variant>
+      <variant>Грусть</variant>
+      <variant>Алкоголизм</variant>
+    </variants>
+  </question>
+
+  <question seconds="20" points="4">
+    <text>Какое животное наиболее схоже с человеком?</text>
+    <variants>
+      <variant right="true">Обезьяна</variant>
+      <variant>Свинья</variant>
+      <variant>Собака</variant>
+      <variant>Дельфин</variant>
+    </variants>
+  </question>
+
+  <question seconds="25" points="7">
+    <text>Сколько лапок у паука?</text>
+    <variants>
+      <variant right="true">8</variant>
+      <variant>4</variant>
+      <variant>6</variant>
+      <variant>12</variant>
+    </variants>
+  </question>
+
+  <question seconds="15" points="2">
+    <text>Кто царь зверей?</text>
+    <variants>
+      <variant right="true">Лев</variant>
+      <variant>Копибара</variant>
+      <variant>Кит</variant>
+      <variant>Кошка</variant>
+    </variants>
+  </question>
+
+  <question seconds="20" points="5">
+    <text>Самое долгоживущее дерево</text>
+    <variants>
+      <variant right="true">Дуб</variant>
+      <variant>Баобаб</variant>
+      <variant>Сакура</variant>
+      <variant>Эвкалипт</variant>
+    </variants>
+  </question>
+
+  <question seconds="25" points="6">
+    <text>Как называют самую большую ягоду?</text>
+    <variants>
+      <variant right="true">Арбуз</variant>
+      <variant>Дыня</variant>
+      <variant>Тыква</variant>
+      <variant>Клубника</variant>
+    </variants>
+  </question>
+
+</questions>
